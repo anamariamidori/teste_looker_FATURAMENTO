@@ -14,7 +14,10 @@
       font-family: 'Open Sans', Helvetica, Arial, sans-serif;
       font-weight: bold !important;
   }
-  
+  .meu-estilo {
+  color: red;
+  font-weight: bold;
+}
   #tooltip {
       position: absolute;
       width: auto;
