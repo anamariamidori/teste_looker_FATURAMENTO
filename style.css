@@ -1,4 +1,4 @@
-th:contains("venda_veiculos_qtde.novo"){
+td[data-title="venda_veiculos_qtde.novo"]{
     color: blue !important;
     background-color: yellow !important;
 }
