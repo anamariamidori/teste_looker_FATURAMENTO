@@ -15,61 +15,7 @@
       font-weight: bold !important;
   }
   
-  #tooltip {
-      position: absolute;
-      width: auto;
-      height: auto;
-      padding: 8px;
-      background-color: #CCFFE5;
-      border-radius: 4px;
-      box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);
-      pointer-events: none;
-      font-size: 14px;
-      color: #0000000;
-      z-index: 2;
-  }
-  
-  .reportTable {
-      font-family: 'Open Sans', Helvetica, Arial, Noto Sans TC, Noto Sans SC, sans-serif;
-      font-weight: bold !important;
-      color: #000000;
-      border-collapse: collapse;
-      border-spacing: 5px;
-      table-layout: fixed;
-      background-color: #BFFFC9;
-  }
-  
-  th.headerCell {
-      background-color: #72C472;
-      color: black;
-      padding: 10px;
-      border-bottom: 2px solid #000000;
-      text-align: left;
-  }
-  
-  .rowCell {
-      vertical-align: middle;
-      padding: 8px;
-      border-bottom: 1px solid #000000;
-  }
-  
-  .total {
-      border-top: 2px solid #00000 !important;
-      font-weight: bold !important;
-      background-color: #A8E6A3;
-  }
-  
-  .numeric {
-      text-align: right;
-  }
-  
-  .negative {
-      color: #D9534F;
-  }
-  
-  .deviceBreakdown {
-      display: flex;
-      justify-content: space-around;
-      margin-top: 20px;
-  }
-  
+  .meu-estilo {
+  color: red;
+  font-weight: bold;
+}
