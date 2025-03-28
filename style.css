@@ -1,4 +1,4 @@
-th:contains("Nome_da_Coluna"), td:nth-child(N) {
+th:contains("novo"){
     color: blue !important;
     background-color: yellow !important;
 }
